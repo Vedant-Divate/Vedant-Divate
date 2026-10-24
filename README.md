@@ -10,12 +10,14 @@
     <img src="https://img.shields.io/github/followers/Vedant-Divate?label=Followers&style=for-the-badge&color=a855f7" alt="Followers" />
   </a>
   <a href="https://github.com/Vedant-Divate?tab=repositories">
-    <img src="https://img.shields.io/github/repos/Vedant-Divate?label=Repositories&style=for-the-badge&color=ec4899" alt="Repositories" />
+    <img src="https://img.shields.io/badge/22_Public_Repos-a855f7?style=for-the-badge" alt="Public repositories" />
   </a>
-  <a href="https://github.com/Vedant-Divate?tab=followers">
-    <img src="https://img.shields.io/github/forks/Vedant-Divate?label=Forks&style=for-the-badge&color=10b981" alt="Forks" />
+  <a href="https://github.com/Vedant-Divate?tab=stars">
+    <img src="https://img.shields.io/github/stars/Vedant-Divate?label=Stars&style=for-the-badge&color=eab308" alt="Stars" />
   </a>
-  <img src="https://img.shields.io/github/last-commit/Vedant-Divate?label=Last%20Commit&style=for-the-badge&color=38bdf8" alt="Last commit" />
+  <a href="https://github.com/Vedant-Divate/Vedant-Divate/commits/main">
+    <img src="https://img.shields.io/github/last-commit/Vedant-Divate/Vedant-Divate?label=Last%20Commit&style=for-the-badge&color=38bdf8" alt="Last commit" />
+  </a>
 </p>
 
 <p align="center">
@@ -120,6 +122,10 @@ linkedin.com/in/vedant-divate-aaa24632a
       <a href="https://github.com/Vedant-Divate/LogicLens">
         <img src="https://github-readme-stats.vercel.app/api/pin?username=Vedant-Divate&repo=LogicLens&theme=midnight-purple&hide_border=true" alt="LogicLens repo card" />
       </a>
+      <br><br>
+      <a href="https://github.com/Vedant-Divate/LogicLens"><img src="https://img.shields.io/github/stars/Vedant-Divate/LogicLens?label=Stars&style=for-the-badge&color=eab308" alt="LogicLens stars" /></a>
+      <a href="https://github.com/Vedant-Divate/LogicLens/forks"><img src="https://img.shields.io/github/forks/Vedant-Divate/LogicLens?label=Forks&style=for-the-badge&color=10b981" alt="LogicLens forks" /></a>
+      <a href="https://github.com/Vedant-Divate/LogicLens/commits/main"><img src="https://img.shields.io/github/last-commit/Vedant-Divate/LogicLens?label=Activity&style=for-the-badge&color=38bdf8" alt="LogicLens activity" /></a>
     </td>
   </tr>
 </table>
