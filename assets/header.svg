@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="100%" height="360" role="img" aria-label="Vedant Divate - AI &amp; Software Engineer Profile Banner">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="100%" height="360" role="img" aria-label="Vedant Divate - Software &amp; AI Systems Engineer">
   <defs>
     <!-- Background Gradients -->
     <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -24,18 +24,18 @@
 
     <!-- Ambient Orbs -->
     <radialGradient id="glow-cyan" cx="15%" cy="30%" r="50%">
-      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.25" />
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.22" />
       <stop offset="100%" stop-color="#070a13" stop-opacity="0" />
     </radialGradient>
     <radialGradient id="glow-purple" cx="85%" cy="70%" r="60%">
-      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.2" />
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.18" />
       <stop offset="100%" stop-color="#070a13" stop-opacity="0" />
     </radialGradient>
 
     <!-- Grid Pattern -->
     <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
-      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#1e293b" stroke-width="0.75" stroke-opacity="0.6" />
-      <circle cx="30" cy="0" r="1" fill="#38bdf8" fill-opacity="0.25" />
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#1e293b" stroke-width="0.75" stroke-opacity="0.5" />
+      <circle cx="30" cy="0" r="1" fill="#38bdf8" fill-opacity="0.2" />
     </pattern>
   </defs>
 
@@ -62,11 +62,11 @@
   <g transform="translate(60, 48)">
     <!-- Status Pill -->
     <g>
-      <rect x="0" y="0" width="285" height="30" rx="15" fill="#0f172a" stroke="#22d3ee" stroke-width="1.2" stroke-opacity="0.5" />
-      <circle cx="16" cy="15" r="4.5" fill="#10b981">
-        <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite" />
+      <rect x="0" y="0" width="280" height="30" rx="15" fill="#0f172a" stroke="#22d3ee" stroke-width="1.2" stroke-opacity="0.4" />
+      <circle cx="16" cy="15" r="4.5" fill="#38bdf8">
+        <animate attributeName="opacity" values="1;0.4;1" dur="2.5s" repeatCount="indefinite" />
       </circle>
-      <text x="28" y="19" class="font-mono" font-size="11.5" font-weight="600" fill="#a5f3fc" letter-spacing="0.5">OPEN TO INTERNSHIPS · PUNE, IN</text>
+      <text x="28" y="19" class="font-mono" font-size="11.5" font-weight="600" fill="#a5f3fc" letter-spacing="0.5">ENGINEER &amp; BUILDER · PUNE, IN</text>
     </g>
 
     <!-- Main Title -->
@@ -76,12 +76,12 @@
 
     <!-- Subtitle -->
     <text x="2" y="132" class="font-body" font-size="20" font-weight="600" fill="#93c5fd" letter-spacing="-0.2">
-      AI &amp; Data Science Engineer · Full-Stack Builder
+      AI &amp; Data Science · Full-Stack Systems
     </text>
 
     <!-- College & Credential -->
     <text x="2" y="162" class="font-body" font-size="14.5" fill="#94a3b8">
-      Vishwakarma Institute of Technology (VIT Pune) · 3rd Year B.Tech
+      Vishwakarma Institute of Technology (VIT Pune) · B.Tech 2026
     </text>
 
     <!-- Focus Tags / Pills -->
@@ -93,24 +93,24 @@
       </g>
       <!-- Tag 2 -->
       <g transform="translate(148, 0)">
-        <rect width="118" height="28" rx="6" fill="#0c4a6e" stroke="#0284c7" stroke-width="1" stroke-opacity="0.6"/>
-        <text x="12" y="18" class="font-mono" font-size="12" fill="#bae6fd">AST Visualizer</text>
+        <rect width="124" height="28" rx="6" fill="#0c4a6e" stroke="#0284c7" stroke-width="1" stroke-opacity="0.6"/>
+        <text x="12" y="18" class="font-mono" font-size="12" fill="#bae6fd">AST &amp; Runtimes</text>
       </g>
       <!-- Tag 3 -->
-      <g transform="translate(276, 0)">
-        <rect width="124" height="28" rx="6" fill="#3b0764" stroke="#a855f7" stroke-width="1" stroke-opacity="0.6"/>
-        <text x="12" y="18" class="font-mono" font-size="12" fill="#e9d5ff">Symbolic AI &amp; HITL</text>
+      <g transform="translate(282, 0)">
+        <rect width="132" height="28" rx="6" fill="#3b0764" stroke="#a855f7" stroke-width="1" stroke-opacity="0.6"/>
+        <text x="12" y="18" class="font-mono" font-size="12" fill="#e9d5ff">Symbolic AI &amp; Logic</text>
       </g>
       <!-- Tag 4 -->
-      <g transform="translate(410, 0)">
-        <rect width="108" height="28" rx="6" fill="#143126" stroke="#10b981" stroke-width="1" stroke-opacity="0.6"/>
-        <text x="12" y="18" class="font-mono" font-size="12" fill="#a7f3d0">Web3 Escrow</text>
+      <g transform="translate(424, 0)">
+        <rect width="122" height="28" rx="6" fill="#143126" stroke="#10b981" stroke-width="1" stroke-opacity="0.6"/>
+        <text x="12" y="18" class="font-mono" font-size="12" fill="#a7f3d0">Data Provenance</text>
       </g>
     </g>
 
     <!-- Short Tagline -->
     <text x="2" y="254" class="font-body" font-size="13.5" fill="#64748b">
-      Building observable, verifiable software from low-level AST transforms to decentralized systems.
+      Building observable, verifiable software from AST transforms to human-in-the-loop systems.
     </text>
   </g>
 
@@ -130,48 +130,42 @@
     <circle cx="52" cy="17" r="5" fill="#10b981" opacity="0.85" />
 
     <!-- Terminal Title -->
-    <text x="230" y="21" class="font-mono" font-size="11.5" fill="#64748b" text-anchor="middle">vedant@engineer:~ (zsh)</text>
+    <text x="230" y="21" class="font-mono" font-size="11.5" fill="#64748b" text-anchor="middle">vedant@workstation:~ (zsh)</text>
 
     <!-- Terminal Content -->
     <g transform="translate(20, 56)">
       <!-- Prompt 1 -->
       <text x="0" y="14" class="font-mono" font-size="12.5" fill="#38bdf8">$</text>
-      <text x="16" y="14" class="font-mono" font-size="12.5" fill="#f1f5f9"> cat profile.json</text>
+      <text x="16" y="14" class="font-mono" font-size="12.5" fill="#f1f5f9"> neofetch --minimal</text>
 
       <text x="0" y="38" class="font-mono" font-size="12" fill="#94a3b8">{</text>
       
-      <text x="16" y="58" class="font-mono" font-size="12" fill="#a78bfa">"specialties"</text>
-      <text x="108" y="58" class="font-mono" font-size="12" fill="#94a3b8">: [</text>
-      <text x="124" y="58" class="font-mono" font-size="12" fill="#34d399">"Developer Tools"</text>
-      <text x="250" y="58" class="font-mono" font-size="12" fill="#94a3b8">, </text>
-      <text x="264" y="58" class="font-mono" font-size="12" fill="#34d399">"AI Systems"</text>
-      <text x="348" y="58" class="font-mono" font-size="12" fill="#94a3b8">],</text>
+      <text x="16" y="58" class="font-mono" font-size="12" fill="#a78bfa">"domain"</text>
+      <text x="80" y="58" class="font-mono" font-size="12" fill="#94a3b8">: </text>
+      <text x="94" y="58" class="font-mono" font-size="12" fill="#34d399">"Developer Tooling &amp; AI Systems"</text>
+      <text x="350" y="58" class="font-mono" font-size="12" fill="#94a3b8">,</text>
 
       <text x="16" y="78" class="font-mono" font-size="12" fill="#a78bfa">"stack"</text>
       <text x="64" y="78" class="font-mono" font-size="12" fill="#94a3b8">: </text>
       <text x="78" y="78" class="font-mono" font-size="12" fill="#fbbf24">"TypeScript · Python · React · Node"</text>
       <text x="350" y="78" class="font-mono" font-size="12" fill="#94a3b8">,</text>
 
-      <text x="16" y="98" class="font-mono" font-size="12" fill="#a78bfa">"highlights"</text>
-      <text x="100" y="98" class="font-mono" font-size="12" fill="#94a3b8">: [</text>
-      <text x="116" y="98" class="font-mono" font-size="12" fill="#38bdf8">"LogicLens"</text>
-      <text x="194" y="98" class="font-mono" font-size="12" fill="#94a3b8">, </text>
-      <text x="208" y="98" class="font-mono" font-size="12" fill="#38bdf8">"LinkPe"</text>
-      <text x="262" y="98" class="font-mono" font-size="12" fill="#94a3b8">, </text>
-      <text x="276" y="98" class="font-mono" font-size="12" fill="#38bdf8">"SameDrug"</text>
-      <text x="348" y="98" class="font-mono" font-size="12" fill="#94a3b8">],</text>
+      <text x="16" y="98" class="font-mono" font-size="12" fill="#a78bfa">"architecture"</text>
+      <text x="125" y="98" class="font-mono" font-size="12" fill="#94a3b8">: </text>
+      <text x="140" y="98" class="font-mono" font-size="12" fill="#38bdf8">"AST · Web Workers · FHIR"</text>
+      <text x="340" y="98" class="font-mono" font-size="12" fill="#94a3b8">,</text>
 
-      <text x="16" y="118" class="font-mono" font-size="12" fill="#a78bfa">"seeking"</text>
-      <text x="80" y="118" class="font-mono" font-size="12" fill="#94a3b8">: </text>
-      <text x="96" y="118" class="font-mono" font-size="12" fill="#4ade80">"SWE / AI Internships (2025-2026)"</text>
+      <text x="16" y="118" class="font-mono" font-size="12" fill="#a78bfa">"philosophy"</text>
+      <text x="110" y="118" class="font-mono" font-size="12" fill="#94a3b8">: </text>
+      <text x="125" y="118" class="font-mono" font-size="12" fill="#4ade80">"Observable · Verifiable · Fast"</text>
 
       <text x="0" y="138" class="font-mono" font-size="12" fill="#94a3b8">}</text>
 
       <!-- Prompt 2 -->
       <g transform="translate(0, 162)">
         <text x="0" y="14" class="font-mono" font-size="12.5" fill="#38bdf8">$</text>
-        <text x="16" y="14" class="font-mono" font-size="12.5" fill="#f1f5f9"> ping -c 1 divatevedant@gmail.com</text>
-        <text x="0" y="34" class="font-mono" font-size="11.5" fill="#4ade80">✓ 64 bytes: 0% packet loss — Ready to connect!</text>
+        <text x="16" y="14" class="font-mono" font-size="12.5" fill="#f1f5f9"> uptime</text>
+        <text x="0" y="34" class="font-mono" font-size="11.5" fill="#4ade80">● Ready to collaborate on ambitious engineering</text>
       </g>
     </g>
   </g>

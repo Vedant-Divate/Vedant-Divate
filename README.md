@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/Vedant-Divate">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=860&lines=Full-Stack+Engineer+%7C+AI+%26+Data+Science;Building+Developer+Tooling+%26+Interactive+AST+Visualizers;Symbolic+AI+(SWI-Prolog)+%2B+Human-in-the-Loop+Systems;Actively+seeking+Software+Engineering+%26+Product+Internships" alt="Typing Tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=860&lines=Full-Stack+Engineer+%7C+AI+%26+Data+Science;Building+Developer+Tooling+%26+Interactive+AST+Visualizers;Symbolic+AI+(SWI-Prolog)+%2B+Human-in-the-Loop+Architectures;Crafting+observable,+verifiable,+high-performance+software" alt="Typing Tagline" />
   </a>
 </p>
 
@@ -16,46 +16,42 @@
   <a href="https://www.linkedin.com/in/vedant-divate-aaa24632a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:divatevedant@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  &nbsp;
   <a href="https://github.com/Vedant-Divate?tab=repositories">
     <img src="https://img.shields.io/badge/Public_Repos-22-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
   </a>
-  <img src="https://img.shields.io/badge/Internship-Available-10B981?style=for-the-badge" alt="Internship Status" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Location-Pune%2C_India-0EA5E9?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
 </p>
 
 ---
 
-## ⚡ Executive Summary
+## ⚡ About
 
-I am a **3rd Year Artificial Intelligence & Data Science** student at **Vishwakarma Institute of Technology (VIT Pune)** with a passion for building **developer tooling**, **interactive code visualizers**, and **data-driven products with verifiable provenance**. 
+I'm an **Artificial Intelligence & Data Science** student at **Vishwakarma Institute of Technology (VIT Pune)** focused on **developer tooling**, **code visualization**, and **data systems with verifiable provenance**.
 
-My engineering focus spans low-level code mechanics (Babel AST instrumentation and Web Workers sandboxing), symbolic AI reasoning (SWI-Prolog), human-in-the-loop validation architectures, and trustless escrow protocols.
-
-- 🔭 **Currently Building:** AST-driven developer tools and verifiable AI workflows
-- 💡 **Core Expertise:** TypeScript, Python, React, Node.js, Web Workers, AST Transforms & Symbolic AI
-- 🎯 **Looking For:** Software Engineering & Product R&D Internships (Summer/Fall 2025–2026) · Remote or On-site
+My engineering work spans low-level code mechanics (Babel AST transforms and sandboxed Web Workers), symbolic AI reasoning (SWI-Prolog), human-in-the-loop validation architectures, and trustless escrow protocols. I care deeply about building software that is inspectable, robust, and fast.
 
 <p align="center">
   <img src="assets/divider.svg" width="70%" alt="divider" />
 </p>
 
-## 🔬 Featured Projects & Systems
+## 🔬 Featured Work
 
 <table>
-  <!-- Row 1 -->
   <tr>
     <td width="50%" valign="top">
       <h3>🔬 LogicLens</h3>
       <p><b>Interactive Code Execution Visualizer</b></p>
-      <p>Parses JavaScript source code via Babel into an Abstract Syntax Tree (AST), instruments statements, and executes them inside an isolated Web Worker to step-through memory, variables, and the call stack with zero main-thread jank.</p>
+      <p>Instruments JavaScript ASTs via Babel and executes code inside a dedicated Web Worker sandbox to step through memory state, array mutations, and call stack frames with zero UI jank.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/Babel_AST-F9DC3E?style=flat-square&logo=babel&logoColor=black" />
         <img src="https://img.shields.io/badge/Web_Workers-4B5563?style=flat-square" />
-        <img src="https://img.shields.io/badge/HTML5_Canvas-E34F26?style=flat-square&logo=html5&logoColor=white" />
       </p>
       <p>
         <a href="https://logiclens-rnu3.onrender.com/" target="_blank">
@@ -69,12 +65,11 @@ My engineering focus spans low-level code mechanics (Babel AST instrumentation a
     <td width="50%" valign="top">
       <h3>🔗 LinkPe</h3>
       <p><b>Decentralized Freelance Escrow Protocol</b></p>
-      <p>Trustless milestone escrow platform supporting USDC payouts on EVM chains, client-freelancer dispute settlement state machines, and end-to-end encrypted IPFS deliverable handoffs.</p>
+      <p>Trustless milestone escrow platform with USDC settlements, client-freelancer dispute resolution state machines, and end-to-end encrypted IPFS deliverable handoffs.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
         <img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white" />
-        <img src="https://img.shields.io/badge/USDC-2775CA?style=flat-square" />
       </p>
       <p>
         <a href="https://linkpe-frontend.vercel.app" target="_blank">
@@ -86,16 +81,14 @@ My engineering focus spans low-level code mechanics (Babel AST instrumentation a
       </p>
     </td>
   </tr>
-  <!-- Row 2 -->
   <tr>
     <td width="50%" valign="top">
       <h3>💊 SameDrug</h3>
       <p><b>Drug Price Transparency & Provenance Pipeline</b></p>
-      <p>Pharmaceutical pricing transparency engine comparing NPPA government price ceilings against affordable Jan Aushadhi generic alternatives. Normalizes per-unit prices with strict data provenance across 2,439 products and 302 verified comparisons.</p>
+      <p>Pharmaceutical pricing transparency engine comparing NPPA government price ceilings against affordable Jan Aushadhi alternatives, normalized per unit with verified provenance.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/Web_Scraping-FF6F61?style=flat-square" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       </p>
       <p>
@@ -110,12 +103,11 @@ My engineering focus spans low-level code mechanics (Babel AST instrumentation a
     <td width="50%" valign="top">
       <h3>🌊 StreamTrust</h3>
       <p><b>Human-in-the-Loop Ecological Telemetry</b></p>
-      <p>Mobile-optimized field application guiding environmental volunteers through stream diagnostics. AI suggests photo-based telemetry while human volunteers verify inputs, persisting observations into clinical/ecological FHIR records with audit trails.</p>
+      <p>Mobile-optimized field application guiding stream diagnostics: AI suggests photo observations while human volunteers verify inputs, persisted into standard FHIR records with audit trails.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/AI_Vision-8B5CF6?style=flat-square" />
-        <img src="https://img.shields.io/badge/FHIR_Standard-E11D48?style=flat-square" />
+        <img src="https://img.shields.io/badge/FHIR-E11D48?style=flat-square" />
       </p>
       <p>
         <a href="https://streamtrust.vercel.app" target="_blank">
@@ -123,42 +115,6 @@ My engineering focus spans low-level code mechanics (Babel AST instrumentation a
         </a>
         <a href="https://github.com/Vedant-Divate/StreamTrust" target="_blank">
           <img src="https://img.shields.io/badge/SOURCE-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧩 hangman_ai_solver</h3>
-      <p><b>Symbolic AI Game Engine & Agent</b></p>
-      <p>A declarative symbolic reasoning engine written in SWI-Prolog paired with a Node.js backend. Serves as both an infallible game referee and an intelligent agent performing game-state tree search.</p>
-      <p>
-        <img src="https://img.shields.io/badge/SWI--Prolog-E44D26?style=flat-square" />
-        <img src="https://img.shields.io/badge/Symbolic_AI-8B5CF6?style=flat-square" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/Vedant-Divate/hangman_ai_solver" target="_blank">
-          <img src="https://img.shields.io/badge/SOURCE-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📚 StudyGraph & Microservices</h3>
-      <p><b>Interactive Knowledge Graphs & Distributed Services</b></p>
-      <p>Graph-based relational topic visualizers and containerized microservices architecture with backend message brokers and observability tooling.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Microservices-F59E0B?style=flat-square" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/Vedant-Divate/StudyGraph" target="_blank">
-          <img src="https://img.shields.io/badge/STUDY_GRAPH-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="StudyGraph" />
-        </a>
-        <a href="https://github.com/Vedant-Divate/dealership-microservices" target="_blank">
-          <img src="https://img.shields.io/badge/SERVICES-475569?style=for-the-badge&logo=github&logoColor=white" alt="Dealership" />
         </a>
       </p>
     </td>
@@ -233,9 +189,9 @@ My engineering focus spans low-level code mechanics (Babel AST instrumentation a
   <img src="assets/divider.svg" width="70%" alt="divider" />
 </p>
 
-## 🤝 Let's Connect
+## 🤝 Connect
 
-I am actively looking for **Software Engineering & Product Development Internships** for 2025–2026. Whether you have an exciting project, an internship opportunity, or want to discuss AST tooling and symbolic AI, my inbox is always open!
+Always open to discussing developer tooling, compilers & ASTs, symbolic AI, or interesting engineering challenges. Feel free to reach out!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vedant-divate-aaa24632a" target="_blank">
@@ -252,6 +208,6 @@ I am actively looking for **Software Engineering & Product Development Internshi
 </p>
 
 <p align="center">
-  <sub>Designed &amp; Engineered by <b>Vedant Divate</b> · VIT Pune · Open Source Contributor</sub><br/>
+  <sub>Designed &amp; Engineered by <b>Vedant Divate</b> · VIT Pune</sub><br/>
   <sub>⭐ If you find any of my repositories helpful, feel free to drop a star!</sub>
 </p>
