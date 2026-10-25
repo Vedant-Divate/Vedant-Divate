@@ -1,233 +1,115 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vedant-Divate/Vedant-Divate/main/assets/header.svg" alt="Vedant Divate — Software Engineer" width="100%" />
+  <a href="https://github.com/Vedant-Divate">
+    <img src="https://github-readme-stats.vercel.app/api?username=Vedant-Divate&theme=tokyonight&hide_border=true" width="120" alt="GitHub Profile" />
+  </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Vedant-Divate">
-    <img src="https://komarev.com/ghpvc/?username=Vedant-Divate&label=Profile%20views&color=22d3ee&style=for-the-badge" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Vedant-Divate&label=Profile+views&color=0e75b6&style=for-the-badge" alt="Profile views" />
   </a>
   <a href="https://github.com/Vedant-Divate?tab=followers">
-    <img src="https://img.shields.io/github/followers/Vedant-Divate?label=Followers&style=for-the-badge&color=a855f7" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/Vedant-Divate?label=Followers&style=for-the-badge&color=238636" alt="GitHub followers" />
   </a>
   <a href="https://github.com/Vedant-Divate?tab=repositories">
-    <img src="https://img.shields.io/badge/22_Public_Repos-a855f7?style=for-the-badge" alt="Public repositories" />
-  </a>
-  <a href="https://github.com/Vedant-Divate?tab=stars">
-    <img src="https://img.shields.io/github/stars/Vedant-Divate?label=Stars&style=for-the-badge&color=eab308" alt="Stars" />
-  </a>
-  <a href="https://github.com/Vedant-Divate/Vedant-Divate/commits/main">
-    <img src="https://img.shields.io/github/last-commit/Vedant-Divate/Vedant-Divate?label=Last%20Commit&style=for-the-badge&color=38bdf8" alt="Last commit" />
+    <img src="https://img.shields.io/github/repos/Vedant-Divate?label=Repositories&style=for-the-badge&color=58a6ff" alt="Repositories" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vedant-Divate/Vedant-Divate/main/assets/divider.svg" alt="" width="100%" />
-</p>
-
-## 01 — Who I Am
-
-<table>
-  <tr>
-    <td width="62%">
-      <p>I'm <strong>Vedant Divate</strong>, a <strong>Software Engineer</strong> and <strong>student at VIT</strong>, based in <strong>Pune, India</strong>.</p>
-      <p>I build things that <em>run</em> — not toy demos. My work spans <b>full-stack web apps</b>, <b>AI-assisted tools</b>, <b>symbolic logic</b> and <b>decentralized payments</b>. I care about interfaces that stay fast, explain themselves, and never lie to the user.</p>
-      <p>Right now I maintain <b>four live deployments</b>, write most of my code in <b>TypeScript</b> and <b>Python</b>, and I'm chasing the point where AI suggests and the human still decides.</p>
-    </td>
-    <td width="38%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Vedant-Divate&show_icons=true&theme=midnight-purple&hide_border=true&card_width=330&include_all_commits=true" alt="Vedant Divate's GitHub stats" />
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-
-```console
-●  ●  ●   vedant@github:~/profile
-────────────────────────────────────────────────────────────────────────
-$ whoami
-Vedant Divate  ·  Software Engineer  ·  Pune, India  ·  VIT
-
-$ cat focus.txt
-Full-stack engineering  ·  AI/ML  ·  Developer tooling  ·  Web3
-Hard problems, honest interfaces, real deployments.
-
-$ ls ./deployments --live
-linkpe/        logiclens/     samedrug/      streamtrust/
-
-$ cat contact.txt
-divatevedant@gmail.com
-linkedin.com/in/vedant-divate-aaa24632a
-```
-
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vedant-Divate/Vedant-Divate/main/assets/divider.svg" alt="" width="100%" />
-</p>
-
-## 02 — Live Deployments
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔗 LinkPe</h3>
-      <p>Decentralized freelance escrow platform with USDC payments, encrypted IPFS delivery, and wallet-connected dispute settlement.</p>
-      <p><code>TypeScript · Solidity · IPFS · USDC</code></p>
-      <a href="https://linkpe-frontend.vercel.app"><img src="https://img.shields.io/badge/LIVE_DEMO-10b981?style=for-the-badge" alt="Open LinkPe live demo" /></a>
-      <a href="https://github.com/Vedant-Divate/LinkPe"><img src="https://img.shields.io/badge/SOURCE-a855f7?style=for-the-badge" alt="LinkPe source code" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔬 LogicLens</h3>
-      <p>Interactive code execution visualizer. Parses JavaScript via Babel into an AST, instruments it, and runs it in a Web Worker to visualize memory, arrays, and the call stack step-by-step.</p>
-      <p><code>JavaScript · Babel · AST · Web Workers</code></p>
-      <a href="https://logiclens-rnu3.onrender.com/"><img src="https://img.shields.io/badge/LIVE_DEMO-10b981?style=for-the-badge" alt="Open LogicLens live demo" /></a>
-      <a href="https://github.com/Vedant-Divate/LogicLens"><img src="https://img.shields.io/badge/SOURCE-a855f7?style=for-the-badge" alt="LogicLens source code" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💊 SameDrug</h3>
-      <p>What you actually pay vs what the government capped it at — NPPA ceilings vs Jan Aushadhi, per-unit aligned, full provenance. 302 verified comparisons across 2,439 products.</p>
-      <p><code>Python · Data Pipeline · Web Scraping</code></p>
-      <a href="https://samedrug.onrender.com"><img src="https://img.shields.io/badge/LIVE_DEMO-10b981?style=for-the-badge" alt="Open SameDrug live demo" /></a>
-      <a href="https://github.com/Vedant-Divate/SameDrug"><img src="https://img.shields.io/badge/SOURCE-a855f7?style=for-the-badge" alt="SameDrug source code" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌊 StreamTrust</h3>
-      <p>Mobile-friendly app that guides a volunteer through a stream check. AI suggests — never decides — what it sees in their photos, the human confirms every value, and the result is saved as FHIR data.</p>
-      <p><code>TypeScript · AI Assist · FHIR</code></p>
-      <a href="https://streamtrust.vercel.app"><img src="https://img.shields.io/badge/LIVE_DEMO-10b981?style=for-the-badge" alt="Open StreamTrust live demo" /></a>
-      <a href="https://github.com/Vedant-Divate/StreamTrust"><img src="https://img.shields.io/badge/SOURCE-a855f7?style=for-the-badge" alt="StreamTrust source code" /></a>
-    </td>
-  </tr>
-</table>
-
-## 03 — Spotlight · LogicLens
-
-<table>
-  <tr>
-    <td width="64%" valign="top">
-      <p>Most learners can read JavaScript but can't <em>see</em> it. LogicLens turns execution into a visual story: every variable, array and stack frame is rendered as your code runs.</p>
-      <ul>
-        <li><b>Parses</b> JavaScript with <b>Babel</b> into a full AST</li>
-        <li><b>Instruments</b> the AST to capture every state mutation</li>
-        <li><b>Executes</b> inside a <b>Web Worker</b> so the UI never freezes</li>
-        <li><b>Renders</b> memory, arrays and the call stack step-by-step</li>
-      </ul>
-      <p><code>JavaScript · Babel · AST Instrumentation · Web Workers</code></p>
-      <a href="https://logiclens-rnu3.onrender.com/"><img src="https://img.shields.io/badge/TRY_LIVE_DEMO-10b981?style=for-the-badge" alt="Try LogicLens" /></a>
-      <a href="https://github.com/Vedant-Divate/LogicLens"><img src="https://img.shields.io/badge/VIEW_SOURCE-a855f7?style=for-the-badge" alt="View LogicLens source" /></a>
-    </td>
-    <td width="36%" align="center" valign="top">
-      <a href="https://github.com/Vedant-Divate/LogicLens">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=Vedant-Divate&repo=LogicLens&theme=midnight-purple&hide_border=true" alt="LogicLens repo card" />
-      </a>
-      <br><br>
-      <a href="https://github.com/Vedant-Divate/LogicLens"><img src="https://img.shields.io/github/stars/Vedant-Divate/LogicLens?label=Stars&style=for-the-badge&color=eab308" alt="LogicLens stars" /></a>
-      <a href="https://github.com/Vedant-Divate/LogicLens/forks"><img src="https://img.shields.io/github/forks/Vedant-Divate/LogicLens?label=Forks&style=for-the-badge&color=10b981" alt="LogicLens forks" /></a>
-      <a href="https://github.com/Vedant-Divate/LogicLens/commits/main"><img src="https://img.shields.io/github/last-commit/Vedant-Divate/LogicLens?label=Activity&style=for-the-badge&color=38bdf8" alt="LogicLens activity" /></a>
-    </td>
-  </tr>
-</table>
-
-## 04 — The Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,prolog,solidity,html,css,docker,react,nodejs,express,fastapi,ipfs,pandas,git,github,vscode,figma,vite&perline=10&theme=dark" alt="Tech stack" />
-  </a>
-</p>
-
-<table>
-  <tr>
-    <td width="25%"><b>Frontend</b></td>
-    <td width="75%">TypeScript · JavaScript · React · HTML5 · CSS3 · Vite</td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>Node.js · Express · Python · FastAPI · REST</td>
-  </tr>
-  <tr>
-    <td><b>AI & Data</b></td>
-    <td>Embeddings · Pandas · YOLO / Computer Vision · AI-assisted UX</td>
-  </tr>
-  <tr>
-    <td><b>Web3</b></td>
-    <td>Solidity · USDC · IPFS · Wallet Connect</td>
-  </tr>
-  <tr>
-    <td><b>Symbolic AI</b></td>
-    <td>SWI-Prolog — logic as both engine and agent</td>
-  </tr>
-  <tr>
-    <td><b>Tooling</b></td>
-    <td>Git · GitHub Actions · Docker · Render · Vercel · VS Code</td>
-  </tr>
-</table>
-
-## 05 — More Builds
 
 <details>
-  <summary><b>📦 Open the full lab shelf</b></summary>
-  <br>
-  <p align="center">
-    <a href="https://github.com/Vedant-Divate/hangman_ai_solver">
-      <img src="https://github-readme-stats.vercel.app/api/pin?username=Vedant-Divate&repo=hangman_ai_solver&theme=midnight-purple&hide_border=true" alt="hangman_ai_solver" />
-    </a>
-    <a href="https://github.com/Vedant-Divate/StudyGraph">
-      <img src="https://github-readme-stats.vercel.app/api/pin?username=Vedant-Divate&repo=StudyGraph&theme=midnight-purple&hide_border=true" alt="StudyGraph" />
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://github.com/Vedant-Divate/dealership-microservices">
-      <img src="https://github-readme-stats.vercel.app/api/pin?username=Vedant-Divate&repo=dealership-microservices&theme=midnight-purple&hide_border=true" alt="dealership-microservices" />
-    </a>
-    <a href="https://github.com/Vedant-Divate/xrwvm-fullstack_developer_capstone">
-      <img src="https://github-readme-stats.vercel.app/api/pin?username=Vedant-Divate&repo=xrwvm-fullstack_developer_capstone&theme=midnight-purple&hide_border=true" alt="fullstack capstone" />
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://github.com/Vedant-Divate?tab=repositories">
-      <img src="https://img.shields.io/badge/22_PUBLIC_REPOS-BROWSE_ALL-a855f7?style=for-the-badge" alt="Browse all repositories" />
-    </a>
+  <summary><b>👤 Professional Summary</b></summary>
+  <p>
+    <strong>Vedant Divate</strong><br>
+    <span style="font-size: 0.9em;">Software Engineer | Student at VIT | Based in Pune, India</span><br><br>
+    <strong>Core Competencies:</strong> Full-stack development, AI/ML integration, clean code architecture, and professional software development practices.<br><br>
+    <strong>Professional Focus:</b> Building scalable, maintainable web applications with clean, readable code and thoughtful user experiences.<br><br>
+    <strong>Currently:</b> Seeking software engineering opportunities where I can contribute to meaningful projects while continuing to grow as a developer.
   </p>
 </details>
 
-## 06 — Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-Divate&theme=midnight-purple&hide_border=true&layout=compact&card_width=330" alt="Top languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant-Divate&theme=midnight-purple&hide_border=true&card_width=330" alt="Contribution streak" />
+  <a href="https://github.com/Vedant-Divate?tab=followers" style="margin-right: 12px;">
+    <img src="https://img.shields.io/github/followers/Vedant-Divate?label=Followers&style=for-the-badge&color=238636" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/Vedant-Divate?tab=repositories">
+    <img src="https://img.shields.io/github/repos/Vedant-Divate?label=Repositories&style=for-the-badge&color=58a6ff" alt="GitHub repositories" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vedant-Divate&show_icons=true&theme=midnight-purple&hide_border=true&card_width=430&include_all_commits=true" alt="GitHub stats" />
-</p>
+---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vedant-Divate/Vedant-Divate/main/assets/divider.svg" alt="" width="100%" />
-</p>
+## 👋 About Me
 
-## 07 — Let's Talk
+I'm a software engineer focused on building reliable, user-centric web applications. My approach emphasizes clean code, thoughtful design, and practical solutions that solve real problems.
+
+**Key Details:**
+- 📍 Based in Pune, India at VIT (Vellore Institute of Technology)
+- 🎓 Currently pursuing a degree in Computer Science/Software Engineering
+- 💼 Currently working as a student software engineer
+- 📧 Contact: <a href="mailto:divatevedant@gmail.com">divatevedant@gmail.com</a>
+- 📱 LinkedIn: <a href="https://www.linkedin.com/in/vedant-divate-aaa24632a">linkedin.com/in/vedant-divate-aaa24632a</a>
+
+## 🚀 Live Projects
 
 <table>
   <tr>
-    <td width="33%" align="center">
-      <a href="https://www.linkedin.com/in/vedant-divate-aaa24632a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-      <br><b>vedant-divate</b>
+    <td>
+      <h4>🔗 <b>LinkPe</b></h3>
+      <p>Decentralized freelance escrow platform with USDC payments and IPFS-based file storage.</p>
+      <p>Tech: TypeScript, React, Solidity, IPFS</p>
+      <a href="https://linkpe-frontend.vercel.app" class="badge">✅ Live</a>
+      <a href="https://github.com/Vedant-Divate/LinkPe"><img src="https://img.shields.io/badge/Source%20Code-GitHub-238636?style=for-the-badge" alt="Source" /></a>
     </td>
-    <td width="33%" align="center">
-      <a href="mailto:divatevedant@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-      <br><b>divatevedant@gmail.com</b>
+    <td>
+      <h3>🔬 LogicLens</h3>
+      <p>Interactive code execution visualizer that shows JavaScript AST parsing and execution flow.</p>
+      <p>Tech: JavaScript, Babel, Web Workers</p>
+      <a href="https://logiclens-rnu3.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-58a6ff?style=for-the-badge" alt="Live Demo" /></a>
+      <a href="https://github.com/Vedant-Divate/LogicLens"><img src="https://img.shields.io/badge/Source%20Code-GitHub-238636?style=for-the-badge" alt="Source Code" /></a>
     </td>
-    <td width="33%" align="center">
-      <a href="https://github.com/Vedant-Divate"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-      <br><b>@Vedant-Divate</b>
+  </tr>
+  <tr>
+    <td>
+      <h3>💊 SameDrug</h3>
+      <p>Drug price transparency tool showing actual vs capped prices.</p>
+      <p>Tech: Python, Flask, PostgreSQL</p>
+      <a href="https://samedrug.onrender.com"><img src="https://img.shields.io/badge/Live-Demo-58a6ff?style=for-the-badge" alt="Live Demo" /></a>
+    </td>
+    <td>
+      <h3>🤝 StreamTrust</h3>
+      <p>AI-assisted stream verification tool for developers.</p>
+      <p>Tech: TypeScript, React, Firebase</p>
+      <a href="https://streamtrust.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-10b981?style=for-the-badge" alt="Live Demo" /></a>
     </td>
   </tr>
 </table>
 
+## 🛠️ Tech Stack
+
 <p align="center">
-  <b>Open to internships, freelance work and open-source collaboration.</b><br>
-  <sub>If something here caught your eye — let's talk. ⭐</sub>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,python,react,nodejs,express,git,github,vscode,figma&perline=8" />
+  </a>
+</p>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-Divate&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant-Divate&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vedant-divate-aaa24632a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:divatevedant@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Vedant-Divate">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! ⭐</b><br>
+  <small>Star my repositories if you find them useful.</small>
 </p>
