@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/Vedant-Divate">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=860&lines=Full-Stack+Engineer+·+AI+%26+Data+Science;Building+AST+Visualization+%26+Developer+Tooling+%C2%B7+MAPF+%26+Optimal+Planning;Symbolic+Reasoning+(SWI-Prolog)+·+Human-in-the-Loop;Architecting+observable,+verifiable,+high-performance+software" alt="Typing Tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=17&amp;duration=3000&amp;pause=1000&amp;color=60A5FA&amp;center=true&amp;vCenter=true&amp;width=860&amp;lines=Full-Stack+Engineer+%C2%B7+AI+%26+Data+Science;Building+AST+Visualization+%26+Developer+Tooling+%C2%B7+MAPF+%26+Optimal+Planning;Symbolic+Reasoning+(SWI-Prolog)+%C2%B7+Human-in-the-Loop;Architecting+observable,+verifiable,+high-performance+software" alt="Typing Tagline" />
   </a>
 </p>
 
@@ -204,13 +204,13 @@ My engineering work bridges low-level code mechanics (Babel AST transforms and s
 ## 📊 Activity & Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vedant-Divate&show_icons=true&theme=tokyonight&hide_border=true&card_width=450" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vedant-Divate&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;card_width=450" height="175" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-Divate&layout=compact&theme=tokyonight&hide_border=true&card_width=380" height="175" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-Divate&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;card_width=380" height="175" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant-Divate&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant-Divate&amp;theme=tokyonight&amp;hide_border=true" height="165" alt="GitHub Streak" />
 </p>
 
 <p align="center">
