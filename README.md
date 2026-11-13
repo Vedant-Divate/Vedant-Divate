@@ -150,25 +150,6 @@ My engineering work bridges low-level code mechanics (Babel AST transforms and s
         </a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>📊 Benchmarks</h3>
-      <p><b>Honest, reproducible MAPF benchmarks</b></p>
-      <p>24 MovingAI cells × 3 arms (CBS, Prioritized fixed, best-of-8) at 60 s budget. CBS optimal where it solves (13/24, median SoC 226); Prioritized solves more (20/24) but at higher cost (336.5). Timeouts are failures — never dropped. Every number cites run ID 20261105-1754-5db8a24-dirty-headline.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Benchmark-Honest-6366F1?style=flat-square" />
-        <img src="https://img.shields.io/badge/Run_ID-20261105--1754-5db8a24--dirty--headline-8B5CF6?style=flat-square" />
-      </p>
-      <p>
-        <a href="https://swarm-way.vercel.app/benchmarks" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo_↗-1E3A8A?style=for-the-badge&logo=vercel&logoColor=60A5FA" alt="Live Demo" />
-        </a>
-        &nbsp;
-        <a href="https://github.com/Vedant-Divate/SwarmWay" target="_blank">
-          <img src="https://img.shields.io/badge/Source_Code_↗-0F172A?style=for-the-badge&logo=github&logoColor=CBD5E1" alt="Source Code" />
-        </a>
-      </p>
-    </td>
   </tr>
 </table>
 
