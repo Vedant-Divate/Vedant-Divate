@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/Vedant-Divate">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=860&lines=Full-Stack+Engineer+·+AI+%26+Data+Science;Building+AST+Visualization+%26+Developer+Tooling;Symbolic+Reasoning+(SWI-Prolog)+·+Human-in-the-Loop;Architecting+observable,+verifiable,+high-performance+software" alt="Typing Tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=860&lines=Full-Stack+Engineer+·+AI+%26+Data+Science;Building+AST+Visualization+%26+Developer+Tooling;+MAPF+%26+Optimal+Planning;Symbolic+Reasoning+(SWI-Prolog)+·+Human-in-the-Loop;Architecting+observable,+verifiable,+high-performance+software" alt="Typing Tagline" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/Vedant-Divate?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-22-0B132B?style=for-the-badge&logo=github&logoColor=A78BFA" alt="Repositories" />
+    <img src="https://img.shields.io/badge/Projects-23-0B132B?style=for-the-badge&logo=github&logoColor=A78BFA" alt="Repositories" />
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Location-Pune%2C_India-0B132B?style=for-the-badge&logo=google-maps&logoColor=38BDF8" alt="Location" />
