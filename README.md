@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/Vedant-Divate">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=860&lines=Full-Stack+Engineer+·+AI+%26+Data+Science;Building+AST+Visualization+%26+Developer+Tooling+%C2%B7+MAPF+%26+Optimal+Planning;+MAPF+%26+Optimal+Planning;Symbolic+Reasoning+(SWI-Prolog)+·+Human-in-the-Loop;Architecting+observable,+verifiable,+high-performance+software" alt="Typing Tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=860&lines=Full-Stack+Engineer+·+AI+%26+Data+Science;Building+AST+Visualization+%26+Developer+Tooling+%C2%B7+MAPF+%26+Optimal+Planning;Symbolic+Reasoning+(SWI-Prolog)+·+Human-in-the-Loop;Architecting+observable,+verifiable,+high-performance+software" alt="Typing Tagline" />
   </a>
 </p>
 
